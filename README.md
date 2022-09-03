@@ -20,7 +20,7 @@
 </div>
 
 
-<h3 align="center">A passionate software engineer hoping to make an impact using coding</h3>
+<h3 align="center">I'm passionate software engineer hoping to make an impact using coding</h3>
 
 - 👨‍💻 All of my projects are available at [https://wendybarrios.netlify.app](https://wendybarrios.netlify.app)
 
