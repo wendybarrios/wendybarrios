@@ -7,7 +7,7 @@
     <a href="https://wendybarrios.netlify.app">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/wendy-barrios1">
+  <a href="https://linkedin.com/in/wendy-barrios1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="your-youtube-URL">
