@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://wendybarrios.netlify.app](https://wendybarrios.netlify.app)
 
-<!-- <h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wendy-barrios1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wendy-barrios1" height="30" width="40" /></a>
 </p> -->
