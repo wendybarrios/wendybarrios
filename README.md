@@ -23,7 +23,7 @@
 <h3 align="center">I am a passionate software engineer hoping to make a positive impact using coding!</h3>
 
 - :construction: I’m currently working on **Enpaz** ([Github repo](https://github.com/wendybarrios/enpaz2))
-- 👨‍💻 All of my projects are available at [https://wendybarrios.netlify.app](https://wendybarrios.netlify.app)
+- 👨‍💻 All of my projects are available at [https://wendyb.netlify.app](https://wendybarrios.netlify.app)
 - :dart: I’m currently focusing on **Backend Web Development** 
 - 📫 How to reach me **wbarrios99@gmail.com**
 
