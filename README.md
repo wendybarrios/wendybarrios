@@ -52,4 +52,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendybarrios&show_icons=true&locale=en" alt="wendybarrios" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wendybarrios&" alt="wendybarrios" /></p>
