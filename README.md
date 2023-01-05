@@ -20,7 +20,7 @@
 </div>
 
 
-<h3 align="center">I am a passionate software engineer hoping to make a positive impact using coding!</h3>
+<h3 align="center">  I am a full stack software engineer based in Los Angeles. I'm proficient in HTML, CSS, JavaScript, Node.js, MongoDB, and React. My passion is creating eye-catching and user-friendly websites that are inclusive to all with the endgoal of improving the customer experience.</h3>
 
 - :construction: I’m currently working on **Enpaz** ([Github repo](https://github.com/wendybarrios/enpaz2))
 - 👨‍💻 All of my projects are available at [https://wendyb.netlify.app](https://wendybarrios.netlify.app)
