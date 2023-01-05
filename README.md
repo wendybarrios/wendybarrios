@@ -27,6 +27,11 @@
 - :dart: I’m currently focusing on **Backend Web Development** 
 - 📫 How to reach me **wbarrios99@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/wendy-barrios1" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linked In" height="30"/></a>
+<a href="https://twitter.com/wendy_barrios_" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Twitter" height="30" /></a>
+
 <!-- <h3 align="left">Connect with me!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wendy-barrios1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wendy-barrios1" height="30" width="40" /></a>
