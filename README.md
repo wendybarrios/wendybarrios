@@ -3,19 +3,19 @@
 <div id="header" align="center">
   <img src="https://data.whicdn.com/images/298319390/original.gif" width="400"/>
   
-  <div id="badges">
+<!--   <div id="badges">
     <a href="https://wendybarrios.netlify.app">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/wendy-barrios1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
 <!--   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->
-  <a href="https://twitter.com/wendy_barrios_">
+<!--   <a href="https://twitter.com/wendy_barrios_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 </div>
 
