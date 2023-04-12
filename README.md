@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wendy Barrios</h1>
-<p align="center">
-<img width="850" alt="Screen Shot 2023-04-12 at 3 15 05 PM" src="https://user-images.githubusercontent.com/102558203/231599643-4c457ff7-7ca8-4029-a30f-97f4cec9efcb.png">
-  </p>
+
 
 
 <div id="header" align="center">
