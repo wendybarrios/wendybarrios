@@ -2,6 +2,7 @@
 
 
 
+
 <div id="header" align="center">
   <img src="https://data.whicdn.com/images/298319390/original.gif" width="400"/>
   
@@ -22,7 +23,7 @@
 </div>
 
 
-<h3 align="center">  I am a full stack software engineer based in Los Angeles. I'm proficient in HTML, CSS, JavaScript, Node.js, MongoDB, and React. My passion is creating eye-catching and user-friendly websites that are inclusive to all with the endgoal of improving the customer experience.</h3>
+<h3 align="center">I am a full stack software engineer based in Los Angeles. I'm proficient in HTML, CSS, JavaScript, Node.js, MongoDB, and React. My passion is creating eye-catching and user-friendly websites that are inclusive to all with the endgoal of improving the customer experience.</h3>
 
 - :construction: I’m currently working on **Enpaz** ([Github repo](https://github.com/wendybarrios/enpaz2))
  - :woman_technologist: View my live projects at [https://wd-wendybarrios.vercel.app](https://wd-wendybarrios.vercel.app)
