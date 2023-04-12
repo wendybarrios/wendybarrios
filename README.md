@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wendy Barrios</h1>
+<img width="1060" alt="Screen Shot 2023-04-12 at 3 15 05 PM" src="https://user-images.githubusercontent.com/102558203/231599643-4c457ff7-7ca8-4029-a30f-97f4cec9efcb.png">
+![Brown Aesthetic Group Project Presentation](https://user-images.githubusercontent.com/102558203/231599643-4c457ff7-7ca8-4029-a30f-97f4cec9efcb.png)
 
 <div id="header" align="center">
   <img src="https://data.whicdn.com/images/298319390/original.gif" width="400"/>
